@@ -1,0 +1,8 @@
+1] Select ODATA and enter URL – NORTHWIND V3 SERVICES
+2] Select customers
+3] TABLES WILL BE LOADED
+4]Go to File > Options and Settings > Options > Security > Use Map and Filled Maps
+5) Open Customers Table
+6) Right click CustomerId > Edit Query
+7) Remove Duplicate Entries and save
+8) Create charts

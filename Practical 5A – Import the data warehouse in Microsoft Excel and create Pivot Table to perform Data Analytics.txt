@@ -1,0 +1,4 @@
+1) Open Excel > Data > From Other Sources > Analysis Services
+2) Enter Server Name > Next  > Select Database > Next > Finish > Pivot Table Report > Ok
+3) Select Fields to show 
+4) Pivot Table is shown

@@ -1,0 +1,13 @@
+1] Continue from the creating star schema and cube. 
+To verify, in SQL Server Management right click on the file name in Object Explorer and click on Browse. 
+Enlarge the Measures of SalesDW. 
+
+2) On selecting Quantity under Fact Product Sales the value shown will be 43. 
+Select Month and Year as well from Dim Date.
+
+3) Go in Design Mode and click on the line that says ‘Click to execute the query.’ 
+The entries will be shown on the screen.
+ 
+4) Right click on the file name and select Process. 
+Select the file and click on Run. 
+Process succeeded is the status.

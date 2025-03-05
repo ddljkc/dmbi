@@ -1,0 +1,2 @@
+1) Open Microsoft Excel containing a Pivot Table > Insert > PivotChart > Clustered Column Chart
+2) Chart is shown

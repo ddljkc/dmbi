@@ -1,0 +1,8 @@
+1] Select ODATA and enter URL – NORTHWIND V3 SERVICES
+2] Select Order_Details, Orders, Products and load
+3] TABLES WILL BE LOADED
+ 
+PERFORM OPERATIONS:-
+4] RIGHT CLICK ANY COLUMN AND SELECT EDIT QUERY  
+5] ADD CUSTOM COLUMN > Name it LineTotal, add formula [UnitPrice]*[Quantity]
+5] IN BI > SELECT ORDER TABLE > MANAGE RELATIONSHIP

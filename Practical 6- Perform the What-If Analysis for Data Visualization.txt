@@ -1,0 +1,14 @@
+1] Create a Excel Sheet  > Create a Table
+e6-f10
+Use formula to calculate f10 first = f7*f8
+ 
+2] Go to Data > What-If Analysis > Goal Seek > Select Sells and Target Value. Values Change
+
+1] GOAL SEEK = change value of something using something
+Try to change f10 to 6000 by changing f8
+
+2] Create another table > Select Table Values > What-If Analysis > Data Table > Column & Row Input
+2] DATA TABLE - COLUMN - Provide input of a value to change all col values
+3] DATA TABLE - ROW 
+4] DATA TABLE – ROW AND COLUMNS
+5] SCENARIO MANAGER

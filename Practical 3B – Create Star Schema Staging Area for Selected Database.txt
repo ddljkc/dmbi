@@ -1,0 +1,13 @@
+1] add salesdw database
+1) Open SSMS > Analysis server
+2) Click Connect 
+3) Click on File > Open > File> Select Data_Warehouse_SQLScript.zip >unzip it
+4) Click Execute 
+………
+2] add salesdw to the datasource in data tools
+5) Open Server Data Tools > NewProject > Select Analysis Multidimensional
+6) Right click Data sources > Data Source Wizard> Next > New > Enter Login and Database > Test Connection > Ok > Next > Inherit > Finish 
+………
+3] add salesdw to datasource view as well
+7) Right Click Data Source View > New Data Source View > Next > Select SalesDW > Add all tables > Finish
+8) Relationship Chart is shown

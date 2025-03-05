@@ -1,0 +1,31 @@
+1. Create a new cube
+
+1] Continue from the star schema practical. 
+In Solution Explorer select Cube > Select the tables – FactProductSales, DimProduct, DimTime and click on Next. [spt]
+Select all the measures to include in the cube and click on Next. 
+Select all the new dimensions and click on Next. 
+Name the cube as Sales DW and click on Finish.
+2) The relationship will be displayed on the screen.
+
+
+
+
+
+2. Edit Dimensions 
+3) In Dimensions > Right Click Dim Date and Open. Drag and drop Year, Quarter and Month to the Attributes. 
+Drag and drop the attributes into the same Hierarchy. 
+File > save all.
+
+
+
+
+
+3. Properties and Run 
+4) Right click on the file name and select Properties. 
+In Build make sure everything is correct. 
+In Deployment, make Processing Option as Full instead of Default. 
+Server Mode as Deploy All instead of Deploy Changes Only. 
+Server as the server name used till now instead of localhost. Apply these changes.
+
+5) Right click on the file name and click on Deploy to deploy the project.
+6) SalesDW is Shown in Analysis Server in SSMS.
