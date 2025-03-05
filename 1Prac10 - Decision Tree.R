@@ -1,3 +1,4 @@
+install.packages("party")
 library(party)
 input.dat <- readingSkills[c(1:105),]
 png(file="decissiontree.png")
